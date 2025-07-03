@@ -1,0 +1,25 @@
+body {
+
+  font-family: 'Segoe UI', sans-serif;
+}
+textarea {
+  resize: none;
+}
+.col-12{
+    padding: 7vh;
+    display: block;
+    size: 2rem;
+}
+#b1{
+    font-size: 30px;
+}
+#b2{
+    font-size: 30px;
+    
+}
+#b3{
+    font-size: 30px;
+}
+::placeholder {
+  font-size: 25px;
+}

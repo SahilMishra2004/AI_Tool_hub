@@ -1,0 +1,5 @@
+my_t5_summary_model/
+Humanize/
+AI_Detector/
+*.pt
+*.bin
